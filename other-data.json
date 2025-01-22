@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Angle",
+    "email": "angle@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Nick",
+    "email": "nick@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "john",
+    "email": "john@gmail.com"
+  },
+  {
+    "id": 4,
+    "name": "Anya",
+    "email": "anya@gmail.com"
+  },
+  {
+    "id": 5,
+    "name": "Mikel",
+    "email": "mikel@gmail.com"
+  },
+  {
+    "id": 6,
+    "name": "Alok",
+    "email": "alok@gmail.com"
+  },
+  {
+    "id": 7,
+    "name": "berlin",
+    "email": "brlin@gmail.com"
+  },
+  {
+    "id": 8,
+    "name": "Meet",
+    "email": "meet@gmail.com"
+  },
+  {
+    "id": 9,
+    "name": "hiten",
+    "email": "hiten@gmail.com"
+  },
+  {
+    "id": 10,
+    "name": "Ravi",
+    "email": "ravi@gmail.com"
+  },
+  {
+    "id": 11,
+    "name": "Heet",
+    "email": "heet@gmail.com"
+  },
+  {
+    "id": 12,
+    "name": "Alexa",
+    "email": "alexa@gmail.com"
+  }
+]
